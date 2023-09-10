@@ -28,14 +28,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a <i>computer science</i> student  at the University of Utah .
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg2eWtmOXN2ZmFzbWx1ODZubDUyczlld2w4cW05NTh6M29zNDE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2A7vnAyazQBT9Ozyi9/giphy.gif" width="30">
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm interested in web development as well as operating systems and systems level programming.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<!-- :zap: In my free time, . -->
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
