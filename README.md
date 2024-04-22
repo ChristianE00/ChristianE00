@@ -4,7 +4,7 @@
 
 ### About Me :
 
-- :telescope: I'm interested in web development as well as operating systems and systems level programming.
+- :telescope: I'm interested in web development and systems level programming.
 
 <!-- :zap: In my free time, . -->
 
